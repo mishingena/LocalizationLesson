@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  LocalizationApp
+
+  Created by Gena on 12.12.15.
+  Copyright © 2015 Gena. All rights reserved.
+*/
+
+
+"book.title" = "Title";
+"book.author" = "Author";
+"book.date" = "Date";
+"book.edition" = "Edition(count)";
+"book.rate" = "Rate";
+"book.text" = "Some text about this book";
+"book.image" = "book.image.en";
+"book.title.VoinaIMir" = "Voina i mir";
+"book.author.Tolstoy" = "L.N Tolstoy";

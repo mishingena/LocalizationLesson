@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  LocalizationApp
+
+  Created by Gena on 12.12.15.
+  Copyright © 2015 Gena. All rights reserved.
+*/
+
+"book.title" = "Название";
+"book.author" = "Автор";
+"book.date" = "Дата";
+"book.edition" = "Количество изданий";
+"book.rate" = "Рейтинг";
+"book.text" = "Небольшое описание данной книги";
+"book.image" = "book.image.ru";
+"book.title.VoinaIMir" = "Война и мир";
+"book.author.Tolstoy" = "Л.Н. Толстой";
